@@ -964,6 +964,10 @@ a {
           align-items: center;
 }
 
+.footer__content .social__group {
+  margin-left: 10px;
+}
+
 .footer__content .social {
   width: 30px;
   height: 30px;
@@ -1358,6 +1362,7 @@ a {
 
   .footer__content .social__group {
     margin-top: 20px;
+    margin-left: 0;
   }
 }
 
